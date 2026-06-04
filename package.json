@@ -1,0 +1,19 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "A random quote generator application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quotes",
+    "generator",
+    "inspiration"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
