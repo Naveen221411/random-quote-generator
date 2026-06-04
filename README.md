@@ -26,4 +26,4 @@ This project was developed to practice JavaScript DOM manipulation, event handli
 
 ## Live Demo
 
-Hosted using GitHub Pages: [https://your-username.github.io/your-repository-name/](https://github.com/Naveen221411/random-quote-generator.git)
+Hosted using GitHub Pages: [https://your-username.github.io/your-repository-name/](https://random-quote-generator-delta-one.vercel.app/)
